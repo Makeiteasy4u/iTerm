@@ -54,14 +54,16 @@
 		<key>TB Is Shown</key>
 		<integer>1</integer>
 	</dict>
+	<key>NSWindow Frame NSFontPanel</key>
+	<string>769 110 445 252 0 0 1280 1001 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>220 426 918 512 0 0 1280 1001 </string>
+	<string>218 364 796 473 0 0 1280 1001 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>143 454 825 502 0 0 1280 1001 </string>
+	<string>104 145 665 452 0 0 1280 1001 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>346 232 585 352 0 0 1280 1001 </string>
+	<string>651 -116 665 452 0 0 1280 1001 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>173 73 585 352 0 0 1280 1024 </string>
+	<string>173 135 665 452 0 0 1280 1001 </string>
 	<key>NeverWarnAboutShortLivedSessions_9F5A3266-F815-4BC0-8174-401E7925AA4C</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_9F5A3266-F815-4BC0-8174-401E7925AA4C_selection</key>
@@ -646,7 +648,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>MesloLGMDZ-RegularForPowerline 12</string>
+			<string>Menlo-Regular 14</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -1288,7 +1290,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>MesloLGMDZ-RegularForPowerline 14</string>
+			<string>Menlo-Regular 14</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -2635,10 +2637,16 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>53A0055C-1506-42B3-8DB0-77AE55482BE9</string>
+	<key>NoSyncLastTipTime</key>
+	<real>511376937.59156698</real>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>510720883.174227</real>
+	<key>NoSyncTipsToNotShow</key>
+	<array>
+		<string>000</string>
+	</array>
 	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
 	<key>PointerActions</key>
@@ -2678,6 +2686,8 @@
 	<string>/Users/red/Documents/Git_Repo/iTerm</string>
 	<key>Print In Black And White</key>
 	<true/>
+	<key>PromptOnQuit</key>
+	<false/>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -2692,6 +2702,12 @@
 	<false/>
 	<key>ShowFullScreenTabBar</key>
 	<false/>
+	<key>TabStyle</key>
+	<integer>0</integer>
+	<key>ToolbeltTools</key>
+	<array>
+		<string>Profiles</string>
+	</array>
 	<key>Use background pattern indicator</key>
 	<false/>
 	<key>WordCharacters</key>
